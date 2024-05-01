@@ -24,7 +24,7 @@
 2. Склонируйте репозиторий https://github.com/Sergo1613/Education_platform на свой компьютер.
 3. Перейдите в корневую директорию проекта.
 4. Запустите приложение с помощью команды:
-* docker-compose build --up
+* docker-compose up --build
 
 ## Документация API:
 
